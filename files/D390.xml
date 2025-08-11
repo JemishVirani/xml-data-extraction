@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<declaratie390  luna="08" an="2024" d_rec="0" nume_declar="BUCUR                               " prenume_declar="COSTEL                              " functie_declar="ADMINISTRATOR                       " cui="42033763" den="SYSTEMA BC CONSTRUCT BUCUR SRL" adresa="CALMATUI, COMUNA GRIVITA str. TACHE ANASTASIU, CAMERA 3 nr. 76 jud. GALATI" telefon="0754650010" totalPlata_A="99507" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="mfp:anaf:dgti:d390:declaratie:v3 D390.xsd" xmlns="mfp:anaf:dgti:d390:declaratie:v3">
+	<rezumat  nr_pag="1" nrOPI="1" bazaL="0" bazaT="0" bazaA="0" bazaP="99506" bazaS="0" bazaR="0" total_baza="99506" />
+	<operatie  tip="P" tara="FR" codO="66515249274" denO="SARL MECOWORKS" baza="99506" />
+</declaratie390>

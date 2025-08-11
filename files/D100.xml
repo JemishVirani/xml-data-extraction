@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<declaratie100  luna="12" an="2024" d_anulare="0" d_succ="0" d_dizolv="0" d_modif="0" nume_declar="BIRZU" prenume_declar="SORIN" functie_declar="ADMINISTRATOR" cui="42906264" den="CONTSCAPE TEC S.R.L." adresa="TECUCI str. VLAD TEPES nr. 3 jud. GALATI" telefon="0753063663" mail="office@contabiltecuci.ro" totalPlata_A="55884" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="mfp:anaf:dgti:d100:declaratie:v2 D100.xsd" xmlns="mfp:anaf:dgti:d100:declaratie:v2">
+	<obligatie  cod_oblig="604" cod_bugetar="5503XXXXXX" scadenta="25.01.2025" nr_evid="10604011224250125000036" bifa_impozit_minim="0" suma_dat="27942" suma_ded="0" suma_plata="27942" suma_rest="0" suma_redu="0" />
+</declaratie100>

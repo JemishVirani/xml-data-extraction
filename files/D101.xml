@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<declaratie101  d_rec="0" d_reg="0" d_reglem="0" d_anulare="0" d_succ="0" cod_obligatie="103" luna_i="01" an_i="2023" luna="12" an="2023"
+ d_prof="0" d_alte="0" Data_I="01.01.2023" Data_S="31.12.2023" scadenta="250624"
+ cod_bug="5503XXXXXX" nr_evid="11103011223250624000034"
+ totalPlata_A="47598697"
+ nume_declar="DRAGAN" prenume_declar="LUCIAN" functie_declar="ADMINISTRATOR"
+ cif="27586751" caen="4778" denumire="S.C. SMART VENDING SOLUTIONS SRL" adresa="Bragadiru str. Alexandriei nr. 548B bl. camera 1 et. 1 cod postal 077025 jud. ILFOV" telefon="0724395685" email="lcfconta@gmail.com"
+
+ P1="21182790" P2="20803837" P3="378953" P4="9965" P5="106250" P6="-96285" P7="282668" P10="282668" P11="923991" P16="923991" P21="0" P22="-641323" P23="51262" P25="556" P26="3409" P27="21500" P28="1009284" P33="26471" P34="1112482" P35="471159" P40="471159" P41="75385" P411="75385" P42="0" P43="15077" P431="15000" P432="77" P46="9046" P47="51262" P49="87201" P52="0" P53="35939"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="mfp:anaf:dgti:d101:declaratie:v9 D101.xsd" xmlns="mfp:anaf:dgti:d101:declaratie:v9"/>

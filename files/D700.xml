@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<D700  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="mfp:anaf:dgti:d700:declaratie:v2 d700.xsd" xmlns="mfp:anaf:dgti:d700:declaratie:v2"
+	 luna="9" an="2022" nume_decl="GHIORGHIU" pren_decl="OCTAVIAN" func_decl="ADMINISTRATOR" totalPlata_A="1"
+	 felD="2" cif="29051398" den="SPMG SRL" dec_inreg="010"
+	 Bifa_III="0" Bifa_IV="1" Bifa_contab="1"
+	 Bifa_VI="0" Bifa_A="0" Bifa_A1="0" Bifa_A2="0" Bifa_A3="0"
+	 Bifa_B="1" Bifa_B1="0" Bifa_B2="0" Bifa_B3="0" Bifa_B4="1" Bifa_4b="2" Bifa2_4b="2" Data7_4b="01.01.2022" Data8_4b="31.08.2022" Data9_4b="01.10.2022" CifAf3_4b="1040157"
+	 Bifa_B5="0" Bifa_B6="0" Bifa_B7="0" Bifa_B8="0"
+	 Bifa_C="0" Bifa_D="0" Bifa_E="0" Bifa_F="0" Bifa_G="0" >
+	<contab  den_4="CONTSCAPE TEC SRL" cif_4="42906264" contract_4="45" data_4="13.08.2020" dataI_4="01.09.2020" autoriz_4="15256" />
+	</D700>

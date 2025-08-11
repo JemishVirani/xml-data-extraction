@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<declaratie301  d_rec="0" an="2022" luna="7" mijl_trans="0" temei="0" cif="44682392" denumire="RAINBOW CLEANING SOLUTIONS SRL" adresa="TECUI str. GHEORGHE PETRASCU nr. 62 bl. B1 sc. 1 et. 3 ap. 14 cod postal 805300 jud. GALATI" telefon="0725734299" email="rainbowcleaningsolution@gmail.com" banca="BANCA TRANSILVANIA                              " cont="RO67BTRLRONCRT0583060601           " pers_inreg="2" nr_evid="10301010722250822000036"
+ baza1="0" tva1="0" baza2="0" tva2="0" baza3="0" tva3="0" baza4="181.52" tva4="34.49" baza5="181.52" tva5="34.49" totalPlata_A="432"
+ nume_declarant="MIRCEA" prenume_declarant="IULIAN" functia_declarant="ADMINISTRATOR                       "
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="mfp:anaf:dgti:d301:declaratie:v1 D301.xsd" xmlns="mfp:anaf:dgti:d301:declaratie:v1">
+<sectiune  tip_operatie="4" nr_doc="4329954498" data_doc="31.07.2022" val_valuta="181.52" tip_valuta="RON" curs_valutar="1" baza="181.52" tva="34.49"/>
+<sectiune  tip_operatie="5" nr_doc="4329954498" data_doc="31.07.2022" val_valuta="181.52" tip_valuta="RON" curs_valutar="1" baza="181.52" tva="34.49"/>
+</declaratie301>

@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<declaratie710  luna="09" an="2024" d_anulare="0" d_succ="0" d_dizolv="0" d_modif="0" nume_declar="LECA" prenume_declar="ECATERINA" functie_declar="ADMINISTRATOR" cui="36963958" den="CHR PET RESCUE TRANSPORT SRL" adresa="DOBRINESTI, COM. NICORESTI str. PRIMAR EMIL CONSTANTINESCU nr. 93 jud. GALATI" telefon="0747915353" mail="lecavasilebogdan@gmail.com" totalPlata_A="97534" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="mfp:anaf:dgti:d710:declaratie:v2 D710.xsd" xmlns="mfp:anaf:dgti:d710:declaratie:v2">
+	<obligatie  cod_oblig="121" cod_bugetar="5503XXXXXX" scadenta="25.10.2024" nr_evid="10121010924251024000035" bifa_impozit_minim="0" suma_dat_I="24388" suma_ded_I="0" suma_plata_I="24388" suma_rest_I="0" suma_redu_I="0" suma_dat_C="24379" suma_ded_C="0" suma_plata_C="24379" suma_rest_C="0" suma_redu_C="0" cota="3" />
+</declaratie710>
